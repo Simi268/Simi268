@@ -22,10 +22,27 @@
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Python, SQL  
-- **Libraries:** Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy  
-- **Core:** Machine Learning, Deep Learning, NLP, Data Analysis  
-- **Tools:** Git, GitHub, Streamlit, VS Code, Render, Hugging Face  
+
+### Programming & Databases
+Python • SQL  
+
+### Data Science & Analytics
+Pandas • NumPy • Matplotlib • Seaborn • Data Analysis • Data Visualization  
+
+### Machine Learning
+Scikit-learn • Feature Engineering • Model Evaluation • Supervised & Unsupervised Learning  
+
+### Deep Learning & AI
+TensorFlow • Keras • PyTorch • NLP • Computer Vision • Generative AI • LLMs  
+
+### GenAI & LLM Engineering
+Prompt Engineering • Retrieval-Augmented Generation (RAG) • Vector Databases • LangChain • Hugging Face Transformers • Fine-tuning LLMs • AI Chatbots  
+
+### Deployment & MLOps
+Streamlit • FastAPI • Git • GitHub • Render • Jupyter Notebook • VS Code • Google Colab  
+
+### Core Expertise
+Machine Learning • Deep Learning • Generative AI • LLM Applications • End-to-End AI Solutions  
 
 ---
 
