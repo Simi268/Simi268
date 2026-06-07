@@ -129,14 +129,6 @@ PyTorch • Hugging Face Transformers • Streamlit
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simi268&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simi268&layout=compact)
-
----
-
 ## 🤝 Connect With Me
 
 💼 LinkedIn: www.linkedin.com/in/simi-kumari-46865b37b
