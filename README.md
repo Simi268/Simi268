@@ -2,7 +2,7 @@
 
 🚀 AI/ML Engineer | Data Scientist | Generative AI Developer  
 🤖 Building Intelligent Applications with Machine Learning, LLMs & RAG  
-⚡ Python • FastAPI • LangChain • NLP • Data Analytics
+⚡ AI/ML • Data Science • Generative AI • RAG Systems • NLP • LLM Engineering
 
 ---
 
