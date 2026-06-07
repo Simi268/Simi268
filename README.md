@@ -22,21 +22,12 @@ I am constantly exploring new AI technologies and transforming ideas into practi
 IKG Punjab Technical University  
 CGPA: 8.52/10
 
-Relevant Coursework:
-- Data Structures & Algorithms
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- Object-Oriented Programming
-- Artificial Intelligence
-- Machine Learning
-
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-Python • SQL • JavaScript • TypeScript
+Python • SQL 
 
 ### 📊 Data Science & Analytics
 Data Analysis • Exploratory Data Analysis (EDA) • Data Cleaning • Feature Engineering • Statistical Analysis • Data Visualization
